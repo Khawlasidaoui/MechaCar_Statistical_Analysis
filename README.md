@@ -3,6 +3,17 @@
 
 Review the production data of AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. Share insights that may help the manufacturing team.
 
+### Study Design: MechaCar vs Competition
+
+Statistical study that can quantify how the MechaCar performs against the competition in terms of ownership. 
+
+Null Hypothesis (Ho): MechaCar is more economic to own based on performance metrics.
+Alternative Hypothesis (Ha): MechaCar is not economic to own based on performance metrics.
+
+Factors to test would include cost, city or highway fuel efficiency, and maintenance cost.
+
+A multiple linear regression could be used to determine which factors have the highest correlation to see if the null hypothesis can be rejected or will fail to be rejected.
+
 ## Results
 
 ### Linear Regression to Predict MPG
@@ -27,13 +38,4 @@ Linear model that predicts the mpg of MechaCar prototypes using several variable
 ### T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/79415699/120117637-21041600-c15c-11eb-8662-76298234c201.png)
 
-### Study Design: MechaCar vs Competition
 
-Statistical study that can quantify how the MechaCar performs against the competition in terms of ownership. 
-
-Null Hypothesis (Ho): MechaCar is more economic to own based on performance metrics.
-Alternative Hypothesis (Ha): MechaCar is not economic to own based on performance metrics.
-
-Factors to test would include cost, city or highway fuel efficiency, and maintenance cost.
-
-A multiple linear regression could be used to determine which factors have the highest correlation to see if the null hypothesis can be rejected or will fail to be rejected.
