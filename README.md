@@ -1,7 +1,8 @@
-# MechaCar_Statistical_Analysis
+# Product prototype_Statistical_Analysis
+
 ## Overview
 
-Review the production data of AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. Share insights that may help the manufacturing team.
+Review the production data of AutosRUs’ newest prototype, the MechaCar, which is suffering from production troubles that are blocking the manufacturing team’s progress. Performed statistical analysis to share insights that may help the manufacturing team.
 
 ### Study Design: MechaCar vs Competition
 
@@ -12,7 +13,7 @@ Alternative Hypothesis (Ha): MechaCar is not economic to own based on performanc
 
 Factors to test would include cost, city or highway fuel efficiency, and maintenance cost.
 
-A multiple linear regression could be used to determine which factors have the highest correlation to see if the null hypothesis can be rejected or will fail to be rejected.
+A multiple linear regression was used to determine which factors have the highest correlation to see if the null hypothesis can be rejected or will fail to be rejected.
 
 ## Results
 
